@@ -1,0 +1,40 @@
+{
+    "_id" : "doc1",
+    "domain" : "Infoworld",
+    "description" : "Packed with over 100 hours of instruction, this bundle will help you dive into Linux, the popular open-source operating system, and is currently on sale over 90% off its typical price.",
+    "img" : "http://core4.staticworld.net/images/article/2016/07/kick-100671483-carousel.idge.jpg",
+    "url" : "http://www.infoworld.comhttp://www.idganswers.com/question/29342/what-is-google-s-tensorflow-and-how-is-it-used-in-ai#src=ifw",
+    "domainUrl" : "http://www.infoworld.com/category/application-development/",
+    "name" : "What is Googles TensorFlow and how is it used in AI?"
+}
+
+{
+    "_id" : "doc2",
+    "domain" : "Infoworld",
+    "description" : "The experimental language uses Go's underlying toolchain to deliver features that Google's language doesn't have yet",
+    "img" : "http://core0.staticworld.net/images/article/2015/09/20150918-att-logo-100615497-carousel.idge.jpg",
+    "url" : "http://www.infoworld.com/article/3095806/application-development/oden-uses-googles-golang-ecosystem-to-cook-up-a-new-language.html",
+    "domainUrl" : "http://www.infoworld.com/category/application-development/",
+    "name" : "Oden uses Google's Golang ecosystem to cook up a new language"
+}
+
+{
+    "_id" : "doc3",
+    "domain" : "Infoworld",
+    "description" : "The experimental language uses Go's underlying toolchain to deliver features that Google's language doesn't have yet",
+    "img" : "http://core0.staticworld.net/images/article/2015/09/20150918-att-logo-100615497-carousel.idge.jpg",
+    "url" : "http://www.infoworld.com/article/3095806/application-development/oden-uses-googles-golang-ecosystem-to-cook-up-a-new-language.html",
+    "domainUrl" : "http://www.infoworld.com/category/application-development/",
+    "name" : "Oden uses Google's Golang ecosystem to cook up a new language"
+}
+
+{
+    "_id" : "doc4",
+    "domain" : "Infoworld",
+    "description" : "The experimental language uses Go's underlying toolchain to deliver features that Google's language doesn't have yet",
+    "img" : "http://core0.staticworld.net/images/article/2015/09/20150918-att-logo-100615497-carousel.idge.jpg",
+    "url" : "http://www.infoworld.com/article/3095806/application-development/oden-uses-googles-golang-ecosystem-to-cook-up-a-new-language.html",
+    "domainUrl" : "http://www.infoworld.com/category/application-development/",
+    "name" : "Oden uses Google's Golang ecosystem to cook up a new language"
+}
+
